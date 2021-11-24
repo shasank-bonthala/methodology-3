@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "shasankb/methodology-3",
+    "build-script": "python run.py"
+}
